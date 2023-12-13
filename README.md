@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a full time front-end web developer based in Cancún, MX.
+I'm a full time front-end developer based in Cancún, MX.
 
-I like that things work well, but I like even more that they also looks ✨ _nice_ ✨.
+I like things that work well, but I like them even more when they also look ✨ _nice_ ✨.
 
 <!--
 **yair-rodriguez/yair-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
